@@ -17,7 +17,7 @@ My name is Akhtakhanov Aslan, I am 21 years old and I am a junior front-end deve
 ### Мои Работы:
 
 - Сайт с рецептами
-  [Код](https://github.com/aslan9569/recipes) | [Демо](https://recipes-application-react.herokuapp.com/recipes)
+  [Код](https://github.com/aslan9569/recipes) | [Демо](https://recipes-app-js-react.herokuapp.com/)
 
 - Десктопный чат на React/Redux
   [Код](https://github.com/aslan9569/react-chat) | [Демо](https://boiling-peak-29085.herokuapp.com/)
