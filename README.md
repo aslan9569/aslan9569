@@ -1,5 +1,6 @@
 ## Добро пожаловать 👋
-### My name is Akhtakhanov Aslan, I am 21 years old and I am a junior front-end developer. I am a 4th year student at the Grozny State Technical University. I started programming a year and a half ago. Graduated from Intucode programming courses. Purposeful, sociable, able to accept criticism and correct my mistakes. I can work well in a team. I am engaged in web development and do not intend to stop there. Thank you for your interest!Sincerely, Aslan!
+# My name is Akhtakhanov Aslan.
+## I am 21 years old and I am a junior front-end developer. I am a 4th year student at the Grozny State Technical University. I started programming a year and a half ago. Graduated from Intucode programming courses. Purposeful, sociable, able to accept criticism and correct my mistakes. I can work well in a team. I am engaged in web development and do not intend to stop there. Thank you for your interest!Sincerely, Aslan!
 
 ### Languages & Tools
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
