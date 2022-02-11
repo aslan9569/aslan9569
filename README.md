@@ -23,6 +23,9 @@
 
 - ТЗ от Авито на React/React-router
   [Код](https://github.com/aslan9569/avito-test-app) | [Демо](https://avito-test-app.herokuapp.com/237)
+  
+  - ТЗ от компании welbeX на React
+  [Код](https://github.com/aslan9569/tz-welbeX) | [Демо](https://tz-welbex.herokuapp.com/)
 
 
 
