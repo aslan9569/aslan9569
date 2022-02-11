@@ -17,6 +17,9 @@
 
 - Сайт с рецептами
   [Код](https://github.com/aslan9569/recipes) | [Демо](https://recipes-application-react.herokuapp.com/)
+  
+  - Сайт с рецептами
+  [Код](https://github.com/aslan9569/recipes) | [Демо](https://recipes-application-react.herokuapp.com/)
 
 - Десктопный чат на React/Redux
   [Код](https://github.com/aslan9569/react-chat) | [Демо](https://boiling-peak-29085.herokuapp.com/)
