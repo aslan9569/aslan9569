@@ -15,6 +15,9 @@
 
 ### Мои Работы:
 
+- ТЗ от компании welbeX на REACT
+  [Код](https://github.com/aslan9569/tz-welbeX) | [Демо](https://tz-welbex.herokuapp.com/)
+
 - Сайт с рецептами
   [Код](https://github.com/aslan9569/recipes) | [Демо](https://recipes-application-react.herokuapp.com/)
   
