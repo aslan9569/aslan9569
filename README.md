@@ -18,17 +18,12 @@
 - Сайт с рецептами
   [Код](https://github.com/aslan9569/recipes) | [Демо](https://recipes-application-react.herokuapp.com/)
   
-  - Сайт с рецептами
-  [Код](https://github.com/aslan9569/recipes) | [Демо](https://recipes-application-react.herokuapp.com/)
-
 - Десктопный чат на React/Redux
   [Код](https://github.com/aslan9569/react-chat) | [Демо](https://boiling-peak-29085.herokuapp.com/)
 
 - ТЗ от Авито на React/React-router
   [Код](https://github.com/aslan9569/avito-test-app) | [Демо](https://avito-test-app.herokuapp.com/237)
   
-  - ТЗ от компании welbeX на React
-  [Код](https://github.com/aslan9569/tz-welbeX) | [Демо](https://tz-welbex.herokuapp.com/)
 
 
 
